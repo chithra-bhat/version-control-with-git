@@ -1,1 +1,1 @@
-# version-control-with-git
+# Udacity - Version Control with Git
