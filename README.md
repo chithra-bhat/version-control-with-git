@@ -25,3 +25,13 @@ This course covers the essentials of using Git, a distributed version control sy
    - Handling merge conflicts
 
 5. **Undoing**
+
+
+## Further Reading 
+
+   - [Git for Dummies](https://www.youtube.com/watch?v=mJ-qvsxPHpY&ab_channel=NickWhite)
+   - [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh)
+   - [Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 1)](https://www.youtube.com/watch?v=hrTQipWp6co&ab_channel=SuperSimpleDev)
+   - [Git and GitHub - 0 Experience to Professional in 1 Tutorial (Part 2)](https://www.youtube.com/watch?v=1ibmWyt8hfw&ab_channel=SuperSimpleDev)
+   
+    
